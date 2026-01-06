@@ -10,7 +10,6 @@ version = "1.0"
 description = "Modules to Interact with Azure API"
 readme = "README.md"
 authors = [{ name = "Harvey Wargo"}]
-license = {file = "LICENSE.txt"}
 classifiers = [
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
